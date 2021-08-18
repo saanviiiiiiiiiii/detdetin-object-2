@@ -1,0 +1,42 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-family: 'Pacifico', cursive;
+}
+
+#start , #status2 , #status 
+{
+font-size: 20px;
+font-family: 'Pacifico', cursive;
+}
+#Object_Name
+{
+    background-color: rgb(95, 42, 252);
+    font-family: 'Pacifico', cursive;
+}
+
+canvas
+{
+border:2px solid rgb(98, 91, 235);
+border-radius: 10px;
+margin-top: 130px;
+box-shadow: 5px 5px 5px rgb(28, 54, 199);
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: #120101;
+    bottom: 0;
+    width: 100%;
+    background-color: #fcc798;
+    line-height: 2;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+ }
